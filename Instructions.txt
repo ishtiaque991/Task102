@@ -1,0 +1,8 @@
+Java Word Count Program
+
+The Java Word Count program is a simple utility that reads a text file, counts the occurrences of each word, and displays the word count for each unique word in alphabetical order. It handles punctuation marks, whitespace, and case sensitivity appropriately.
+
+Usage:
+1. Compile the Java code using the command: javac WordCount.java
+2. Run the program using the command: java WordCount
+3. Ensure that the input text file (input.txt) is placed in the same directory as the Java file or provide its full path in the code.
